@@ -41,3 +41,6 @@ This **MEVN Stack (MongoDB, Express, Vue, Node.js)** app helps users find recipe
 - [Node.js](https://nodejs.org/en/)  
 - [MongoDB](https://www.mongodb.com/)  
 - [Git](https://git-scm.com/)  
+
+## License
+This project is licensed under the CC BY-NC-ND 4.0 International License - see the [LICENSE](./LICENSE) file for details.
