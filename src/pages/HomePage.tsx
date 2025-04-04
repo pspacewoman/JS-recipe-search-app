@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Search, ChefHat, Clock, Utensils } from "lucide-react";
+import { Search, ChefHat, Clock, Utensils, BookOpen } from "lucide-react";
 import Navigation from "@/components/Navigation";
 import { useState } from "react";
 import IngredientInput from "@/components/IngredientInput";
