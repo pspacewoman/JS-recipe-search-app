@@ -30,7 +30,8 @@ This **MEVN Stack (MongoDB, Express, Vue, Node.js)** app helps users find recipe
 
 ---
 
-## 🎯 Getting Started  
+🤝 Contact
+📧 Email: priyanshisingh5962gmail.com
 
 ### 🛠️ Prerequisites I completed for my app -
 - [Node.js](https://nodejs.org/en/)  
