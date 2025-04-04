@@ -1,4 +1,6 @@
-# 🍽️ Recipe Search Web App | MEVN Stack  
+# 🍽️ Recipe Search Web App 
+
+**https://preview--recipe-alchemy-finder.lovable.app/**
 
 🔍 Search for delicious recipes based on available ingredients!  
 This **MEVN Stack (MongoDB, Express, Vue, Node.js)** app helps users find recipes effortlessly.  
