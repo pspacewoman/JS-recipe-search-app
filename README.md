@@ -2,6 +2,8 @@
 
 **https://preview--recipe-alchemy-finder.lovable.app/**
 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
 🔍 Search for delicious recipes based on available ingredients!  
 This **MEVN Stack (MongoDB, Express, Vue, Node.js)** app helps users find recipes effortlessly.  
 
