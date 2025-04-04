@@ -26,22 +26,13 @@ This **MEVN Stack (MongoDB, Express, Vue, Node.js)** app helps users find recipe
 ---
 
 ## 📸 Screenshots  
-🌟 **[Add your screenshots or GIFs here!]** 🌟  
-> 📌 *Example:* Show how the recipe search works with different ingredients.
+
 
 ---
 
 ## 🎯 Getting Started  
 
-### 🛠️ Prerequisites  
-Make sure you have the following installed:  
+### 🛠️ Prerequisites I completed for my app -
 - [Node.js](https://nodejs.org/en/)  
 - [MongoDB](https://www.mongodb.com/)  
 - [Git](https://git-scm.com/)  
-
-### 🚀 Installation  
-
-#### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/YOUR_USERNAME/recipe-search-app.git
-cd recipe-search-app
